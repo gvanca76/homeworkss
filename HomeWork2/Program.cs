@@ -6,8 +6,9 @@ namespace ConsoleApp12
     {
         static void Main()
         {
-
-            Console.WriteLine("Hello World!");
-        }
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.WriteLine("gvanca eliauri");
+            Console.WriteLine(Console.ReadLine());  
+        }   
     }
 }
